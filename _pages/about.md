@@ -16,15 +16,15 @@ redirect_from:
 - Experience in power system modeling, state estimation & data driven CPPS.
 
 ## Skills & Tools
-**Programming Languages:** Embedded C/C++, Arduino, Python, MATLAB, JavaScript, Node.js, LaTeX, Bash
-**Simulation & EDA:** Simulink, PSCAD, RSCAD, RT-LAB, Proteus ISIS, Multisim, PSIM, Eagle PCB, 
-**Target Hardware:** Microchip AVR, MSP430, ESP32, ESP8266, PIC18F, dsPIC30F, dsPIC33F, STM32, Raspberry Pi, Arduino Uno, Arduino Mega, RTDS, Opal-RT
-**IDE & Editor:** Atmel Studio, MPLAB-X, Code Compose Studio, Arduino IDE, Arduino CLI, VSCode, 
-**Network Tools:**  Scapy, Wireshark, CORE Emu, 
-**Protocols:** UART, SPI, I2C, TCP, UDP, HTTP, MQTT, IEEE C37.118.2
-**ML Tools:**  Numpy, Keras, PyTorch, Pandas, Matplotlib
-**Application Development:** ExpressJs, Bootstrap, HTML, CSS, NGINX, MongoDB, Docker, VirtualBox, VernMQ, Google Cloud, Git
-**Other Skills:** Content making(blog & video), Teamwork
+- **Programming Languages:** Embedded C/C++, Arduino, Python, MATLAB, JavaScript, Node.js, LaTeX, Bash
+- **Simulation & EDA:** Simulink, PSCAD, RSCAD, RT-LAB, Proteus ISIS, Multisim, PSIM, Eagle PCB, 
+- **Target Hardware:** Microchip AVR, MSP430, ESP32, ESP8266, PIC18F, dsPIC30F, dsPIC33F, STM32, Raspberry Pi, Arduino Uno, Arduino Mega, RTDS, Opal-RT
+- **IDE & Editor:** Atmel Studio, MPLAB-X, Code Compose Studio, Arduino IDE, Arduino CLI, VSCode, 
+- **Network Tools:**  Scapy, Wireshark, CORE Emu, 
+- **Protocols:** UART, SPI, I2C, TCP, UDP, HTTP, MQTT, IEEE C37.118.2
+- **ML Tools:**  Numpy, Keras, PyTorch, Pandas, Matplotlib
+- **Application Development:** ExpressJs, Bootstrap, HTML, CSS, NGINX, MongoDB, Docker, VirtualBox, VernMQ, Google Cloud, Git
+- **Other Skills:** Content making(blog & video), Teamwork
 
 ## Publications
 1. **S. Shuvo**, E. Hossain, and Z. R. Khan, “Fixed Point Implementation of Grid Tied Inverter in Digital Signal Processing Controller,” _IEEE Access_, pp. 1–1, 2020.
