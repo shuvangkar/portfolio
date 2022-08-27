@@ -7,44 +7,41 @@ redirect_from:
   - /about/
   - /about.html
 ---
+6+ years’ experience working with a wide variety of things, including microcontroller firmware, power electronics, IoT, power system, machine learning and wind farm. Having growth mindset, highly motivated and easily adaptive to the new technology and research.
+## Summary of Qualification
+- 5+ years experience in full stack embedded system development.
+- Experience in power electronics control, simulation & hardware implementation.
+- Experience in power system modeling, state estimation & data driven CPPS.
+## Skills & Tools
+**Programming Languages:** Embedded C/C++, Arduino, Python, MATLAB, JavaScript, Node.js, LaTeX, Bash
+**Simulation & EDA:** Simulink, PSCAD, RSCAD, RT-LAB, Proteus ISIS, Multisim, PSIM, Eagle PCB, 
+**Target Hardware:** Microchip AVR, MSP430, ESP32, ESP8266, PIC18F, dsPIC30F, dsPIC33F, STM32, Raspberry Pi, Arduino Uno, Arduino Mega, RTDS, Opal-RT
+**IDE & Editor:** Atmel Studio, MPLAB-X, Code Compose Studio, Arduino IDE, Arduino CLI, VSCode, 
+**Network Tools:**  Scapy, Wireshark, CORE Emu, 
+**Protocols:** UART, SPI, I2C, TCP, UDP, HTTP, MQTT, IEEE C37.118.2
+**ML Tools:**  Numpy, Keras, PyTorch, Pandas, Matplotlib
+**Application Development:** ExpressJs, Bootstrap, HTML, CSS, NGINX, MongoDB, Docker, VirtualBox, VernMQ, Google Cloud, Git
+**Other Skills:** Content making(blog & video), Teamwork
+## Publications
+1. **S. Shuvo**, E. Hossain, and Z. R. Khan, “Fixed Point Implementation of Grid Tied Inverter in Digital Signal Processing Controller,” _IEEE Access_, pp. 1–1, 2020.
+2. **S. Shuvo**, E. Hossain, T. Islam, A. Akib, S. Padmanaban, and M. Z. R. Khan, “Design and Hardware Implementation Considerations of Modified Multilevel Cascaded H-Bridge Inverter for Photovoltaic System,” _IEEE Access_, vol. 7, pp. 16504–16524, 2019.
+3. M. H. Mondol, M. R. Tür, S. P. Biswas, M. K. Hosain, **S. Shuvo**, and E. Hossain, “Compact Three Phase Multilevel Inverter for Low and Medium Power Photovoltaic Systems,” _IEEE Access_, vol. 8, pp. 60824–60837, 2020.
+4. **S. Das**, P. P. Saha, M. F. Uddin, and E. Hossain, “Reducing Generation Cost by Optimum Load Scheduling in Smart Grid Considering System Loss,” in _2018 IEEE Energy Conversion Congress and Exposition, ECCE 2018_, 2018, no. June 2019, pp. 2663–2669.
+5. Z. R. Rony, **S. C. Das**, and M. Z. R. Khan, “Space vector modulated PWM generation for motor control systems,” in _ICECE 2018 - 10th International Conference on Electrical and Computer Engineering_, 2019, no. 1, pp. 149–152.
+6. **S. Shuvo** _et al._, “Design and Analysis of a Low Cost IoT based Data logging System for Solar PV Monitoring,” in _15th Photovoltaic Science, Applications & Technology Conference_, 2019.
+7. **S. Shuvo** _et al._, “Analog signal processing based hardware implementation of real-time audio visualizer,” in _2020 IEEE Region 10 Symposium (TENSYMP)_, 2020.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+## Experiences
+- **Research Assistant, SPSC Lab, Clarkson University**
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- **Senior IoT Engineer 2020 March – 2021 May adorsho praniSheba Ltd, Dhaka**
+I have developed three cutting-edge IoT products focusing precision modern cattle farming for adorsho praniSheba. The products were biosensor for cattle know as bolus, Base Station for managing Bolus sensor network, environment sensor for cowshed.
+- **Embedded System Engineer (part-time) 2017 May-2017 Sep IICT, BUET**
+The key role comprises designing a development board based on Microchip PIC18F microcontroller. So, the main tasks include designing circuits and PCB, fabricating PCB, testing circuit & writing chapter-wise code for the courseware.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## Education
+*June 2021 - Now*
+PhD in Electrical Engineering, Clarkson University
+_May 2012-   Jan 2017_
+Completed B.Sc. in Electrical & Electronic Engineering from  
+Bangladesh University of Engineering & Technology obtaining a CGPA of 3.06 out of 4.00.
