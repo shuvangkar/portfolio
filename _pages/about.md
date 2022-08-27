@@ -9,10 +9,12 @@ redirect_from:
 ---
 
 6+ years’ experience working with a wide variety of things, including microcontroller firmware, power electronics, IoT, power system, machine learning and wind farm. Having growth mindset, highly motivated and easily adaptive to the new technology and research.
+
 ## Summary of Qualification
 - 5+ years experience in full stack embedded system development.
 - Experience in power electronics control, simulation & hardware implementation.
 - Experience in power system modeling, state estimation & data driven CPPS.
+
 ## Skills & Tools
 **Programming Languages:** Embedded C/C++, Arduino, Python, MATLAB, JavaScript, Node.js, LaTeX, Bash
 **Simulation & EDA:** Simulink, PSCAD, RSCAD, RT-LAB, Proteus ISIS, Multisim, PSIM, Eagle PCB, 
@@ -23,6 +25,7 @@ redirect_from:
 **ML Tools:**  Numpy, Keras, PyTorch, Pandas, Matplotlib
 **Application Development:** ExpressJs, Bootstrap, HTML, CSS, NGINX, MongoDB, Docker, VirtualBox, VernMQ, Google Cloud, Git
 **Other Skills:** Content making(blog & video), Teamwork
+
 ## Publications
 1. **S. Shuvo**, E. Hossain, and Z. R. Khan, “Fixed Point Implementation of Grid Tied Inverter in Digital Signal Processing Controller,” _IEEE Access_, pp. 1–1, 2020.
 2. **S. Shuvo**, E. Hossain, T. Islam, A. Akib, S. Padmanaban, and M. Z. R. Khan, “Design and Hardware Implementation Considerations of Modified Multilevel Cascaded H-Bridge Inverter for Photovoltaic System,” _IEEE Access_, vol. 7, pp. 16504–16524, 2019.
