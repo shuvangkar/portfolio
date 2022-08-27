@@ -10,7 +10,7 @@ redirect_from:
 
 6+ years’ experience working with a wide variety of things, including microcontroller firmware, power electronics, IoT, power system, machine learning and wind farm. Having growth mindset, highly motivated and easily adaptive to the new technology and research.
 
-## Summary of Qualification
+## Summary of Qualifications
 - 5+ years experience in full stack embedded system development.
 - Experience in power electronics control, simulation & hardware implementation.
 - Experience in power system modeling, state estimation & data driven CPPS.
@@ -49,3 +49,9 @@ PhD in Electrical Engineering, Clarkson University
 _May 2012-   Jan 2017_
 Completed B.Sc. in Electrical & Electronic Engineering from  
 Bangladesh University of Engineering & Technology obtaining a CGPA of 3.06 out of 4.00.
+
+## Hobby
+- Reading [books](https://www.goodreads.com/user/show/149487066-shuvangkar-das)
+- Making educational content on [YouTube](https://www.youtube.com/ShuvangkarDas)
+- Writing [blogs](https://blog.shuvangkardas.com/)
+
