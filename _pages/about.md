@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Resume of Shuvangkar Das"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 6+ years’ experience working with a wide variety of things, including microcontroller firmware, power electronics, IoT, power system, machine learning and wind farm. Having growth mindset, highly motivated and easily adaptive to the new technology and research.
 ## Summary of Qualification
 - 5+ years experience in full stack embedded system development.
