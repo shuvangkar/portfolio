@@ -36,7 +36,7 @@ Hi, I am Shuvangkar Das, research assistant and Ph.D. student at Clarkson Univer
 7. **S. Shuvo** _et al._, “Analog signal processing based hardware implementation of real-time audio visualizer,” in _2020 IEEE Region 10 Symposium (TENSYMP)_, 2020.
 
 ### Experiences
-- **Graduate Research Assistant, SPSC Lab, Clarkson University(2021 June - Now)**
+- **Graduate Research Assistant, SPSC Lab, Clarkson University(2021 June - Now)**  
 Working on NYSERDA Real-time Interconnection Studies and Control of New York Offshore Wind with the NYPA (2020-2023). Modeling and detection of cyber physical power system testbed with different physical and cyber faults
 - **Senior IoT Engineer 2020 March – 2021 May adorsho praniSheba Ltd, Dhaka**
 Developed three cutting-edge IoT products, i.e.,  Low-power Cow Bolus, Remote Cowshed Monitoring System(RCMS), and Base Station for sensor network employing modular firmware architecture, low power RF and microcontroller technology focusing on modern precision farming. 
@@ -44,7 +44,7 @@ Developed three cutting-edge IoT products, i.e.,  Low-power Cow Bolus, Remote Co
 The key role comprises designing a development board based on Microchip PIC18F microcontroller. So, the main tasks include designing circuits and PCB, fabricating PCB, testing circuit & writing chapter-wise code for the courseware.
 
 ### Education
-- PhD in Electrical & Electronics Engineering, 3.923/4.00, June 2021 - Now
+- PhD in Electrical & Electronics Engineering, 3.923/4.00, June 2021 - Now  
   Clarkson University, Potsdam, NY
 - B.Sc. in Electrical & Electronic Engineering , CGPA: 3.06/4.00,  May 2012 - May 2017 
   Bangladesh University of Engineering & Technology, Dhaka, Bangladesh
