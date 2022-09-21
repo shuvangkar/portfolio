@@ -11,5 +11,3 @@ citation: 'S. Shuvo, E. Hossain, T. Islam, A. Akib, S. Padmanaban and M. Z. R. K
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8625414)
-
-Recommended citation: S. Shuvo, E. Hossain, T. Islam, A. Akib, S. Padmanaban and M. Z. R. Khan, "Design and Hardware Implementation Considerations of Modified Multilevel Cascaded H-Bridge Inverter for Photovoltaic System," in IEEE Access, vol. 7, pp. 16504-16524, 2019, doi: 10.1109/ACCESS.2019.2894757..
